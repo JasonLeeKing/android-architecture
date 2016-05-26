@@ -33,6 +33,18 @@ more information.
   * [todo-mvp-clean/](https://github.com/googlesamples/android-architecture/tree/todo-mvp-clean/) - Based on todo-mvp, uses concepts from Clean Architecture.
   * [todo-mvp-dagger/](https://github.com/googlesamples/android-architecture/tree/todo-mvp-dagger/) - Based on todo-mvp, uses Dagger2 for Dependency Injection
 
+todo-mvp-loaders（基于mvp基础架构项目，获取数据部分使用了Loaders架构）
+
+todo-mvp-databinding（基于mvp基础架构项目，使用了数据绑定组件）
+
+仍在进展中的示例有
+
+todo-mvp-contentproviders（基于mvp基础架构项目，使用了Content Providers）
+
+todo-mvp-clean（基于mvp基础架构项目，使用了clean架构的概念）
+
+todo-mvp-dagger（基于mvp基础架构项目，使用了dagger2进行依赖注入）
+
 In progress:
 
   * [dev-todo-mvp-contentproviders/](https://github.com/googlesamples/android-architecture/tree/dev-todo-mvp-contentproviders/) - Based on todo-mvp-loaders, uses Content Providers
